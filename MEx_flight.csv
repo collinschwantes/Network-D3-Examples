@@ -1,0 +1,112 @@
+Origin,"Origin Name","Origin City","Origin State","Origin Country",Destination,"Destination Name","Destination City","Destination State","Destination Country","Direct Flights","Total Seats"
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CUN,"Cancun International",Cancun,,Mexico,261,104386
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MTY,"Mariano Escobedo Intl",Monterrey,,Mexico,312,92585
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,GDL,"Miguel Hidalgo Intl",Guadalajara,,Mexico,255,82161
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TIJ,"A.L. Rodriguez Intl",Tijuana,,Mexico,99,47072
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MID,"M. Crescencio Rejon",Merida,,Mexico,104,39554
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LAX,"Los Angeles Intl","Los Angeles",CA,"United States",50,27562
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",71,23260
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,VSA,"C.Rovirosa Perez Intl",Villahermosa,,Mexico,85,22768
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TGZ,"Angel Albino Corzo Intl","Tuxtla Gutierrez",,Mexico,67,21980
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,19,21297
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CUU,"R. Fierro Villalobos",Chihuahua,,Mexico,49,20533
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PVR,"G. Diaz Ordaz Intl","Puerto Vallarta",,Mexico,86,20413
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SJD,"Los Cabos Intl","San Jose del Cabo",,Mexico,53,19815
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,31,19699
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,BOG,"El Dorado Intl",Bogota,,Colombia,37,19294
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",28,18241
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MIA,"Miami International",Miami,FL,"United States",39,16922
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TRC,"Francisco Sarabia Intl",Torreon,,Mexico,59,16092
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,DFW,"Dallas/Ft Worth Intl","Dallas/Fort Worth",TX,"United States",31,15786
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,REX,"Lucio Blanco Intl",Reynosa,,Mexico,49,15577
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,VER,"Heriberto Jara Intl",Veracruz,,Mexico,85,15249
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,OAX,"Xoxocotlan Intl",Oaxaca,,Mexico,59,14958
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CJS,"Abraham Gonzalez Intl","Ciudad Juarez",,Mexico,44,14758
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,HMO,"I.Pesqueira Garcia",Hermosillo,,Mexico,46,14716
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LAS,"Mccarran Intl","Las Vegas",NV,"United States",31,14668
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CDG,"Charles De Gaulle","Paris-De Gaulle",,France,19,14522
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LIM,"Jorge Chavez Intl",Lima,,Peru,24,14521
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CUL,"Fed. De Bachigualato",Culiacan,,Mexico,50,13411
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ACA,"Acapulco International",Acapulco,,Mexico,100,13398
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,HUX,"Bahias de Huatulco Intl",Huatulco,,Mexico,56,13265
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ORD,"O'Hare International",Chicago-O'Hare,IL,"United States",21,12896
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MZT,"Rafael Buelna Intl",Mazatlan,,Mexico,40,12290
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SFO,"San Francisco Intl","San Francisco",CA,"United States",21,11081
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TAM,"F. Javier Mina Intl",Tampico,,Mexico,42,10984
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",38,10042
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MXL,"R.Sanchez Taboada Intl",Mexicali,,Mexico,21,10025
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,HAV,"Jose Marti Intl",Havana,,Cuba,15,9925
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SLP,"Ponciano Arriaga Intl","San Luis Potosi",,Mexico,51,9490
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LAP,"Manuel Marquez de Leon","La Paz",,Mexico,31,9438
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,GUA,"La Aurora International","Guatemala City",,Guatemala,16,8941
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,12,8815
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MCO,"Orlando Intl",Orlando,FL,"United States",25,8785
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ZIH,"Ixtapa/Zihuatanejo International",Ixtapa/Zihuatanejo,,Mexico,49,8533
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SJO,"Juan Santamaria Intl","San Jose",,"Costa Rica",14,8390
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CME,"Ciudad del Carmen International","Ciudad del Carmen",,Mexico,32,8292
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,BJX,"Del Bajio International",Leon/Guanajuato,,Mexico,64,8186
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PXM,"Puerto Escondido International","Puerto Escondido",,Mexico,29,7967
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TAP,"Tapachula East International",Tapachula,,Mexico,27,7477
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,AGU,"Aguascalientes International Airport",Aguascalientes,,Mexico,49,7218
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SCL,"Arturo M Benitez",Santiago,,Chile,8,7179
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SAT,"San Antonio Intl","San Antonio",TX,"United States",13,6912
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LHR,Heathrow,London-Heathrow,EN,"United Kingdom",10,6617
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,EZE,"Ministro Pistarini","Buenos Aires",BA,Argentina,10,6126
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,YYZ,"Lester B. Pearson Intl",Toronto,ON,Canada,12,5778
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MTT,Coatzacoalcos,Minatitlan,,Mexico,32,5340
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,AMS,Schiphol,Amsterdam,,Netherlands,4,5315
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,DGO,"Guadalupe Victoria Intl",Durango,,Mexico,30,5133
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,FRA,"Frankfurt International Airport",Frankfurt,,Germany,2,5096
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CTM,"Chetumal International",Chetumal,,Mexico,10,4904
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,YVR,"Vancouver Intl",Vancouver,BC,Canada,7,4698
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SAL,"El Salvador Intl","San Salvador",,"El Salvador",11,4625
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CPE,"A.Acuna Ongay Intl",Campeche,,Mexico,30,4622
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CVM,"Pedro J. Mendez Intl","Ciudad Victoria",,Mexico,21,4593
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MUC,"Franz Josef Strauss International",Munich,,Germany,3,4455
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",8,4408
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ZCL,"Leobardo C. Ruiz Intl",Zacatecas,,Mexico,34,4332
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PHX,"Sky Harbor Intl",Phoenix,AZ,"United States",5,4150
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MLM,"F.J. Mujica Intl",Morelia,,Mexico,30,4051
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,HOU,"William P Hobby",Houston-Hobby,TX,"United States",4,3976
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CEN,"Ciudad Obregon International","Ciudad Obregon",,Mexico,24,3788
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LMM,"Fed. Valle del Fuerte","Los Mochis",,Mexico,17,3762
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,EWR,"Newark Intl",Newark,NJ,"United States",11,3690
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,YUL,"Pierre E. Trudeau Intl",Montreal-PET,QC,Canada,4,3624
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,IAD,"Dulles International",Washington-Dulles,VA,"United States",10,3505
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ZLO,"Playa de Oro Intl",Manzanillo,,Mexico,25,3487
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CLQ,"Miguel de la Madrid",Colima,,Mexico,23,3423
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MAM,"Servando Canales Intl",Matamoros,,Mexico,25,3201
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CZM,"Cozumel International",Cozumel,,Mexico,20,3146
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PAZ,"El Tajin","Poza Rica",,Mexico,20,2893
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,TPQ,"Amado Nervo",Tepic,,Mexico,14,2814
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,NRT,Narita,Tokyo-Narita,,Japan,3,2673
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,QRO,"Queretaro Intercontinental",Queretaro,,Mexico,21,2514
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,LZC,"Lazaro Cardenas","Lazaro Cardenas",,Mexico,8,2197
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,UIO,"Mariscal Sucre Intl",Quito,,Ecuador,2,2114
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SNA,"John Wayne Airport","Orange County",CA,"United States",2,1988
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,NLD,"Quetzalcoatl Intl","Nuevo Laredo",,Mexico,15,1888
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MGA,"Augusto C Sandino Intl",Managua,,Nicaragua,3,1841
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,FCO,Fiumicino,"Rome-Da Vinci",,Italy,3,1758
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,6,1672
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MDE,"Jose Marie Cordova",Medellin,,Colombia,3,1672
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PDS,"Piedras Negras International","Piedras Negras",,Mexico,13,1636
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,BOS,"Logan International",Boston,MA,"United States",2,1560
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,DEN,"Denver International",Denver,CO,"United States",4,1531
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SLC,"Salt Lake City Intl","Salt Lake City",UT,"United States",2,1512
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,OAK,"Metro Oakland Intl",Oakland,CA,"United States",2,1392
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SDQ,"Las Americas International","Santo Domingo",,"Dominican Republic",4,1315
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CCS,"Simon Bolivar International",Caracas,,Venezuela,5,1260
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,CLT,"Charlotte-Douglas International Airport",Charlotte-Douglas,NC,"United States",4,1240
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SFB,"Central Florida Region",Orlando-Sanford,FL,"United States",2,1200
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,JAL,"El Lencero",Jalapa,,Mexico,7,1187
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SLW,"Plan de Guadalupe Intl",Saltillo,,Mexico,10,1100
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,ONT,"Ontario Intl",Ontario,CA,"United States",2,1050
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,DTW,"Metropolitan Wayne County",Detroit,MI,"United States",6,882
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,VRA,"Juan G. Gomez Intl",Varadero,,Cuba,5,837
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,MFE,"Miller International",McAllen,TX,"United States",2,684
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SAN,"San Diego International Airport","San Diego",CA,"United States",1,350
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SMF,"Sacramento International",Sacramento,CA,"United States",2,322
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,PQM,"Palenque International",Palenque,,Mexico,3,279
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,AUS,"Austin-Bergstrom International Airport",Austin,TX,"United States",2,252
+MEX,"Benito Juarez Intl","Mexico City",,Mexico,SNU,"Abel Santamaria","Santa Clara",,Cuba,2,186
+"No data",,,,,,,,,,,

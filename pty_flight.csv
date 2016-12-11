@@ -1,0 +1,106 @@
+Origin,"Origin Name","Origin City","Origin State","Origin Country",Destination,"Destination Name","Destination City","Destination State","Destination Country","Direct Flights","Total Seats"
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BOG,"El Dorado Intl",Bogota,,Colombia,90,46797
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CCS,"Simon Bolivar International",Caracas,,Venezuela,52,42536
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SJO,"Juan Santamaria Intl","San Jose",,"Costa Rica",73,29903
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SCL,"Arturo M Benitez",Santiago,,Chile,25,27106
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CUN,"Cancun International",Cancun,,Mexico,37,24509
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",22,23898
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MIA,"Miami International",Miami,FL,"United States",36,22774
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MEX,"Benito Juarez Intl","Mexico City",,Mexico,34,22106
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,HAV,"Jose Marti Intl",Havana,,Cuba,34,19001
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,LIM,"Jorge Chavez Intl",Lima,,Peru,30,15769
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MCO,"Orlando Intl",Orlando,FL,"United States",20,15516
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,PUJ,"Punta Cana International","Punta Cana",,"Dominican Republic",27,15320
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MDE,"Jose Marie Cordova",Medellin,,Colombia,36,14367
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SAL,"El Salvador Intl","San Salvador",,"El Salvador",34,14336
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SDQ,"Las Americas International","Santo Domingo",,"Dominican Republic",33,14240
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,12,13104
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,EZE,"Ministro Pistarini","Buenos Aires",BA,Argentina,14,12806
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GYE,"Jose Joaquin de Olmedo",Guayaquil,,Ecuador,33,12452
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,UIO,"Mariscal Sucre Intl",Quito,,Ecuador,38,11898
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",11,11387
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",12,11090
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CLO,"Alfonso B Aragon International",Cali,,Colombia,31,10775
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GUA,"La Aurora International","Guatemala City",,Guatemala,30,10370
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,MIA,"Miami International",Miami,FL,"United States",12,9880
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,VLN,"Arturo Michelena Intl",Valencia,,Venezuela,14,9028
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,CAP,"Hugo Chavez Intl","Cap Haitien",,Haiti,84,8758
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,JBQ,"Dr. Joaquin Balaguer Airport","Santo Domingo",,"Dominican Republic",136,8596
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,LAX,"Los Angeles Intl","Los Angeles",CA,"United States",9,8424
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GIG,"Galeao-A.C.Jobim Intl","Rio De Janeiro",RJ,Brazil,8,8422
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BLA,"J.A. Anzoategui Intl",Barcelona,,Venezuela,12,8405
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CTG,"Rafael Nunez International",Cartagena,,Colombia,25,7419
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MVD,Carrasco,Montevideo,,Uruguay,8,7290
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SJU,"Luis Munoz Marin Int","San Juan",PR,"United States",18,6993
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,ASU,"Silvio Pettirossi Intl",Asuncion,,Paraguay,8,6708
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MGA,"Augusto C Sandino Intl",Managua,,Nicaragua,23,6432
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SFO,"San Francisco Intl","San Francisco",CA,"United States",6,6215
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,12,5676
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,DAV,"Enrique Malek International",David,,Panama,19,5647
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,IAD,"Dulles International",Washington-Dulles,VA,"United States",9,5584
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MAR,"La Chinita International",Maracaibo,,Venezuela,14,5118
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,POS,"Piarco International","Port of Spain",,"Trinidad and Tobago",12,5115
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,AMS,Schiphol,Amsterdam,,Netherlands,2,5110
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,CUR,"Hato International",Curacao,,Curacao,54,5052
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,PEI,"Matecana International",Pereira,,Colombia,17,4774
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,SDQ,"Las Americas International","Santo Domingo",,"Dominican Republic",26,4624
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,VVI,"Viru Viru Intl","Santa Cruz-Viru Viru",,Bolivia,10,4392
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,COR,"Pajas Blancas",Cordoba,CD,Argentina,5,4375
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,10,4278
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,ORD,"O'Hare International",Chicago-O'Hare,IL,"United States",7,4218
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",11,4104
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CDG,"Charles De Gaulle","Paris-De Gaulle",,France,4,3656
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,ADZ,"Gustavo R. Pinilla Int","San Andres Island",,Colombia,4,3472
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,13,3283
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,YYZ,"Lester B. Pearson Intl",Toronto,ON,Canada,6,3165
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BAQ,"Ernesto Cortissoz International",Barranquilla,,Colombia,9,3145
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,LAS,"Mccarran Intl","Las Vegas",NV,"United States",4,3120
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BSB,"J. Kubitschek Intl",Brasilia,DF,Brazil,6,3117
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,YUL,"Pierre E. Trudeau Intl",Montreal-PET,QC,Canada,12,3040
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CNF,"Tancredo Never International","Belo Horizonte",MG,Brazil,7,2953
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GDL,"Miguel Hidalgo Intl",Guadalajara,,Mexico,6,2880
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,KIN,"Norman Manley Intl",Kingston,,Jamaica,9,2801
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,SCU,"Antonio Maceo Intl","Santiago de Cuba",,Cuba,18,2602
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,GEO,"Cheddi Jagan International",Georgetown,,Guyana,4,2528
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,PAP,"Toussaint Louverture","Port Au Prince",,Haiti,6,2522
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BOS,"Logan International",Boston,MA,"United States",8,2484
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,POA,"Salgado Filho Intl","Porto Alegre",RS,Brazil,5,2482
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,FRA,"Frankfurt International Airport",Frankfurt,,Germany,3,2435
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,IST,Ataturk,Istanbul,,Turkey,3,2226
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,ROS,"Islas Malvinas",Rosario,SF,Argentina,2,2184
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,CMW,"Ignacio Agramonte International",Camaguey,,Cuba,16,2152
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,AUA,"Reina Beatrix",Aruba,,Aruba,9,1926
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,EWR,"Newark Intl",Newark,NJ,"United States",8,1924
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,PLS,"Providenciales Intl",Providenciales,,"Turks and Caicos Islands",44,1886
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,DXB,"Dubai International",Dubai,,"United Arab Emirates",1,1862
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,TGU,"Toncontin Intl",Tegucigalpa,,Honduras,7,1811
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MAO,"Eduardo Gomes Intl",Manaus,AM,Brazil,5,1786
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",6,1764
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MBJ,"Sangster Intl","Montego Bay",,Jamaica,5,1628
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BGA,"Palonegro International",Bucaramanga,,Colombia,10,1620
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MTY,"Mariano Escobedo Intl",Monterrey,,Mexico,4,1598
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",8,1532
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,TPA,"Tampa International",Tampa,FL,"United States",7,1500
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",8,1467
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,PTP,"Le Raizet","Pointe A Pitre",,Guadeloupe,8,1368
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,MSY,"New Orleans Intl","New Orleans",LA,"United States",5,1190
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CIX,"Cornel Ruiz",Chiclayo,,Peru,4,1128
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,BZE,"Belize International","Belize City",,Belize,4,1128
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,VCP,"Viracopos-Campinas Intl","Sao Paulo-Viraco",SP,Brazil,1,1050
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SXM,"Prinses Juliana International","St. Maarten",,"Sint Maarten",8,1031
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,STI,"Cibao Intl",Santiago,,"Dominican Republic",6,1017
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CUR,"Hato International",Curacao,,Curacao,7,1015
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,BOS,"Logan International",Boston,MA,"United States",2,900
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,SNU,"Abel Santamaria","Santa Clara",,Cuba,4,806
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,LIS,Lisboa,Lisbon,,Portugal,1,798
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,YUL,"Pierre E. Trudeau Intl",Montreal-PET,QC,Canada,3,780
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,HOG,"Frank Pais International",Holguin,,Cuba,4,752
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,NAS,"Lynden Pindling Intl",Nassau,,Bahamas,3,676
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,HAV,"Jose Marti Intl",Havana,,Cuba,8,664
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,CUC,"Camilo Daza",Cucuta,,Colombia,2,470
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,PBC,"Hermanos Serdan Intl",Puebla,,Mexico,2,470
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,REC,"Guararapes International",Recife,PE,Brazil,2,372
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,LIR,"D. Oduber Quiros Intl",Liberia,,"Costa Rica",3,282
+PTY,"Tocumen Intl, Panama R","Panama City",,Panama,VSA,"C.Rovirosa Perez Intl",Villahermosa,,Mexico,2,282
+PAP,"Toussaint Louverture","Port Au Prince",,Haiti,KIN,"Norman Manley Intl",Kingston,,Jamaica,2,60
+"No data",,,,,,,,,,,

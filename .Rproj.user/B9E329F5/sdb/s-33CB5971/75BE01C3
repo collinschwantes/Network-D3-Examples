@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(networkD3)\nlibrary(jsonlite)\nlibrary(RJSONIO)\nlibrary(httr)\nlibrary(devtools)\nlibrary(dplyr)\n\n\n#install_github(\"christophergandrud/networkD3\")\n\nflight_data <- list.files(\"./\",pattern = \"tableExport.csv\",full.names = T)\n\nfdf <- read.csv(file = flight_data)\n\npty_data <- list.files(\"./\",pattern = \"pty\",full.names = T)\n\npty <- read.csv(file = pty_data)\n\n\nmex_data <- list.files(\"./\",pattern = \"MEx\",full.names = T)\n\nmex <- read.csv(file = mex_data)\n\nfdf <- rbind(fdf,pty,mex)\n\nfdf <- fdf[fdf$Origin != \"No data\",]\n\nfdf <- fdf[fdf$Total.Seats > 10000,]\n\nfdf <-droplevels(fdf)\n\nstr(fdf)\n# \n# levels(fdf$Origin) <- unique(c(levels(fdf$Destination),levels(fdf$Origin)))\n# \n# levels(fdf$Destination) <- levels(fdf$Origin)\n# \n# fdf[fdf$Origin == levels(fdf$Origin)[1],1] <- \"MEX\"\n# fdf[fdf$Origin == levels(fdf$Origin)[2],1] <- \"PTY\"\n# fdf[fdf$Origin == levels(fdf$Origin)[3],1] <- \"MEX\"\n\n#complete list of nodes\nnode_id <- unique(as.character(fdf$Origin))\n\nnode_id <- c(node_id, unique(as.character(fdf$Destination)))\n\nnode_id <- unique(node_id)\n\nnode_num <- 1:length(node_id)-1\n\nstr(fdf)\n\n\n\ndest_df <- fdf[,6:10]\n\nnames(dest_df) <- names(fdf[,c(1:5)])\n\nnode_df <- rbind(fdf[,1:5], dest_df)\n\nmatches <- match(node_id,node_df$Origin)\n\nnodes <- cbind(node_df[matches,c(1,3,5)],node_num)\n\norigins <- length(unique(as.character(fdf$Origin)))\n\ndests <- length(node_id) - origins\n\nnodes$Role <- c(rep(0,origins), rep(1,dests))\n\ncols<- 1:3\n#margin = 2 means column wise\nnodes[,cols] <- apply(nodes[,cols],2, function(x) as.character(x)) \n\nstr(nodes)\n\nnames(nodes) <- c(\"ID\",\"CITY\",\"COUNTRY\",\"OID\",\"ROlE\")\n\n## links\nfdf_links <- fdf\ncols <- 1:10\nfdf_links[,cols] <- apply(fdf_links[,cols],2, function(x) as.character(x))\n\nstr(fdf_links)\n\nmatched_source <- match(fdf_links$Origin,nodes$ID)\n\n#get OID numbers for source\nfdf_links$source <- nodes[matched_source,4]\n\n#get OID numbers for Target\nmatched_target <- match(fdf_links$Destination,nodes$ID)\n\nfdf_links$target <- nodes[matched_target,4]\n\nnode_size <- tapply(fdf_links$Total.Seats,fdf_links$Destination, mean)\n\nnode_size <- as.data.frame(node_size)\nnode_size$name <- row.names(node_size)\n\n\nnode_size_origin <- tapply(fdf_links$Total.Seats,fdf_links$Origin, mean)\n\nnsz_origin <- as.data.frame(node_size_origin)\nnsz_origin$name <- row.names(nsz_origin)\n\nnames(node_size) <- names(nsz_origin)\n\nnode_szf <-  rbind(nsz_origin,node_size)\n\nnode_szf <- node_szf[unique(node_szf$name),]\n\nstr(node_szf)\n\nstr(nodes)\n\nnodes[order(nodes$ID),6] <- sqrt(node_szf[order(node_szf$name),1])\n\nnames(nodes)[6] <- \"node_size\"\n\n\nstr(fdf_links)\n\n#get higer volume flights\n\n# flt_vol <- 4000\n# \n# links <- fdf_links[fdf_links$Total.Seats > flt_vol,]\n# \n# nodes_d <- nodes[(nodes$V5)^2 > flt_vol & nodes$Role > 0,]\n# nodes_o <- nodes[nodes$Role < 1,]\n# nodes_f <- rbind(nodes_o,nodes_d)\n\nsankeyNetwork(Links = fdf_links, Nodes = nodes, \n              Source = \"source\", LinkGroup = \"Destination.Country\",\n              Target = \"target\", Value = \"Total.Seats\", NodeID = \"CITY\",\n              fontSize = 12, nodeWidth = 30)\n\nforceNetwork(Links = fdf_links,zoom = T,Nodesize = \"node_size\", legend = T,\n             Nodes = nodes ,Source = \"source\", \n             Target = \"target\",Value = \"Direct.Flights\",\n             NodeID = \"CITY\",Group = \"COUNTRY\")\n\n\n\n\n\n\n\n\n",
+    "created" : 1481399541160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1689160540",
+    "id" : "75BE01C3",
+    "lastKnownWriteTime" : 1481479065,
+    "last_content_update" : 1481479065717,
+    "path" : "~/Documents/Network D3 Examples/Flight Network example.R",
+    "project_path" : "Flight Network example.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
