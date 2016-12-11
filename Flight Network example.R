@@ -25,7 +25,7 @@ fdf <- rbind(fdf,pty,mex)
 
 fdf <- fdf[fdf$Origin != "No data",]
 
-fdf <- fdf[fdf$Total.Seats > 10000,]
+#fdf <- fdf[fdf$Total.Seats > 10000,]
 
 fdf <-droplevels(fdf)
 
@@ -137,12 +137,10 @@ sankeyNetwork(Links = fdf_links, Nodes = nodes,
               fontSize = 12, nodeWidth = 30)
 
 forceNetwork(Links = fdf_links,zoom = T,Nodesize = "node_size", legend = T,
-             Nodes = nodes ,Source = "source", 
+             Nodes = nodes ,Source = "source", fontSize = 20,
              Target = "target",Value = "Direct.Flights",
-             NodeID = "CITY",Group = "COUNTRY")
-
-
-
+             NodeID = "CITY",Group = "COUNTRY")   %>%
+saveNetwork(file = "FORCE.html")
 
 
 
